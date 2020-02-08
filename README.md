@@ -1,8 +1,10 @@
 # JavaScript ASN1 Parser/Decoder PWA Library
 
+Generic ASN.1 parser/decoder that can decode any valid ASN.1 DER or BER structures
+
 This is library for a fork project of [PWA](https://github.com/SergioRando/PWA)
 
-Full version can be found at [PWA Library](https://github.com/SergioRando/PWA-Library)
+Original library (without GCC support) can be found on the [official website](https://lapo.it/asn1js/)
 
 # Template
 Read full installation process before executing any command
