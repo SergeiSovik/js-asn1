@@ -1,7 +1,7 @@
 // Converted from: https://www.cs.auckland.ac.nz/~pgut001/dumpasn1.cfg
 // Original work Copyright (c) Peter Gutmann
 // Modified work Copyright (c) 2008-2019 Lapo Luchini <lapo@lapo.it>
-// Modified work Copyright (c) 2020 Sergio Rando <sergio.rando@yahoo.com>
+// Modified work Copyright (c) 2020 Sergei Sovik <sergeisovik@yahoo.com>
 //   You can use this code in whatever way you want,
 //   as long as you don't try to claim you wrote it.
 

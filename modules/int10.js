@@ -1,6 +1,6 @@
 // Big integer base-10 printing library
 // Original work Copyright (c) 2008-2019 Lapo Luchini <lapo@lapo.it>
-// Modified work Copyright (c) 2020 Sergio Rando <sergio.rando@yahoo.com>
+// Modified work Copyright (c) 2020 Sergei Sovik <sergeisovik@yahoo.com>
 
 // Permission to use, copy, modify, and/or distribute this software for any
 // purpose with or without fee is hereby granted, provided that the above
