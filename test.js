@@ -16,4 +16,4 @@
 
 "use strict";
 
-//platform.console.log('js-asn1', 'Skip Test');
+platform.console.log('js-asn1', 'Skip Test');
